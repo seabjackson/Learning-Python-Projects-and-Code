@@ -1,11 +1,9 @@
+
 # make a list to hold onto our items
-# print instructions on how to use the app
-
-
-
-
-
 shopping_list = []
+
+
+# print instructions on how to use the app
 print "What should we pick up at the store?"
 print "Enter 'DONE' to stop adding items."
 
